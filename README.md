@@ -4,8 +4,8 @@
 
 ### *Crafted with care, served with love.*
 
-[![Live Site](https://img.shields.io/badge/Live_Site-Visit-c8702a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mystiqdev.github.io/logan-s-cafe-fictional/)
-[![GitHub](https://img.shields.io/badge/GitHub-MystiqDev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MystiqDev)
+[![Live Site](https://img.shields.io/badge/Live_Site-Visit-c8702a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://madebymyst.github.io/logans-cafe/)
+[![GitHub](https://img.shields.io/badge/GitHub-MadeByMyst-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MadeByMyst)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -24,7 +24,7 @@
 
 ## 🎯 Purpose
 
-This project was built as a **front-end practice exercise** by [MystiqDev](https://github.com/MystiqDev) — a front-end developer focused on clean, responsive design using pure HTML, CSS, and Vanilla JavaScript.
+This project was built as a **front-end practice exercise** by [MadeByMyst](https://github.com/MadeByMyst) — a front-end developer focused on clean, responsive design using pure HTML, CSS, and Vanilla JavaScript.
 
 **Goals of this project:**
 - Practice building a full, multi-section business website from scratch
@@ -66,7 +66,7 @@ Zero dependencies. No build tools. No frameworks. Just clean, hand-written code.
 ## 📁 Project Structure
 
 ```
-logan-s-cafe-fictional/
+logans-cafe/
 ├── index.html       # Full page markup
 ├── styles.css       # All styling and responsive rules
 ├── script.js        # Sticky nav, mobile menu, fade observer, active links
@@ -87,13 +87,13 @@ No build step needed — just open it in a browser.
 
 ```bash
 # Clone the repo
-git clone https://github.com/MystiqDev/logan-s-cafe-fictional.git
+git clone https://github.com/MadeByMyst/logans-cafe.git
 
 # Open in browser
 open index.html
 ```
 
-Or view it live: **[mystiqdev.github.io/logan-s-cafe-fictional](https://mystiqdev.github.io/logan-s-cafe-fictional/)**
+Or view it live: **[madebymyst.github.io/logans-cafe](https://madebymyst.github.io/logans-cafe/)**
 
 ---
 
@@ -118,9 +118,9 @@ Or view it live: **[mystiqdev.github.io/logan-s-cafe-fictional](https://mystiqde
 
 ## 👤 Author
 
-**MystiqDev** — Front-end developer from Oman
+**MadeByMyst** — Front-end developer from Oman
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6c63ff?style=flat-square&logo=googlechrome&logoColor=white)](https://mystiqdev.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6c63ff?style=flat-square&logo=googlechrome&logoColor=white)](https://madebymyst.github.io)
 [![Twitter](https://img.shields.io/badge/Twitter-@my__st45-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/my_st45)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mystique--X-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mystique-x-9572b93a7/)
 [![Instagram](https://img.shields.io/badge/Instagram-mysti__qdev-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mysti_qdev/)
@@ -129,6 +129,6 @@ Or view it live: **[mystiqdev.github.io/logan-s-cafe-fictional](https://mystiqde
 
 <div align="center">
 
-*© 2026 Logan'sCafe — A fictional project by MystiqDev. Built with HTML, CSS & Vanilla JS.*
+*© 2026 Logan'sCafe — A fictional project by MadeByMyst. Built with HTML, CSS & Vanilla JS.*
 
 </div>
